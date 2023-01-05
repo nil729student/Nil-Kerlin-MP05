@@ -54,13 +54,7 @@ public class VerificacioVehicles {
           }
         }
 
-        // Si es del 2010 o anterior i es de gasolina, el guardem a la llista de
-        // vehicles retirats
-
       }
     }
-
-    // mostrem els vehicles retirats
-
   }
 }
